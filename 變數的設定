@@ -1,0 +1,6 @@
+#變數的設定
+x=1
+y=10*x
+x=x+y
+print(x)
+print(y)
